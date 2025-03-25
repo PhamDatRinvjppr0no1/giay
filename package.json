@@ -1,0 +1,24 @@
+{
+  "name": "giay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhamDatRinvjppr0no1/giay.git"
+  },
+  "author": "DatPham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhamDatRinvjppr0no1/giay/issues"
+  },
+  "homepage": "https://github.com/PhamDatRinvjppr0no1/giay#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.13.0"
+  }
+}
